@@ -204,10 +204,18 @@ Freelance full-stack: Django REST Framework, FastAPI, Playwright, scalable SaaS 
 
 ## How to Reach Me
 
-- **Email:** [shaheertariq1236@gmail.com](mailto:shaheertariq1236@gmail.com)
-- **LinkedIn:** [Shaheer Tariq](https://pk.linkedin.com/in/shaheer-tariq-836b4b266/)
-- **Portfolio:** [shaheertariq.space](https://shaheertariq.space/)
-- **Location:** Faisalabad, Punjab · +92 309 6381844
+- 📧 **Email:** [shaheertariq1236@gmail.com](mailto:shaheertariq1236@gmail.com)
+- 💼 **LinkedIn:** [Shaheer Tariq](https://pk.linkedin.com/in/shaheer-tariq-836b4b266/)
+- 🌐 **Portfolio:** [shaheertariq.space](https://shaheertariq.space/)
+- 📍 **Location:** Faisalabad, Punjab
+- 📞 **Phone:** +92 309 6381844
+
+**Connect with me:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/shaheer-tariq-836b4b266/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923096381844)
+[![Discord](https://img.shields.io/badge/Discord-shaheer__07707-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Slack](https://img.shields.io/badge/Slack-Shaheer_Tariq-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com)
 
 ---
 
