@@ -1,6 +1,6 @@
 # About Me
 
-**Shaheer Tariq**  
+[![Name](https://readme-typing-svg.demolab.com/demo/?lines=Shaheer+Tariq&size=42&color=58A6FF&weight=700&center=true)](https://github.com/shaheertariq89)
 **Full Stack Developer** · Web · Mobile · DevOps · Python · React 
 
 Results-driven Computer Science graduate with 3+ years of hands-on experience across **web**, **mobile**, and **DevOps**. I build end-to-end products—from React/React Native UIs and FastAPI/Django backends to Redis queues, Playwright scrapers, and Kubernetes deployments.
