@@ -1,6 +1,5 @@
 # About Me
 
-[![Name](https://readme-typing-svg.demolab.com/demo/?lines=Shaheer+Tariq&size=42&color=58A6FF&weight=700&center=true)](https://github.com/shaheertariq89)
 ## Shaheer Tariq
 
 **Full Stack Developer** · Web · Mobile · DevOps · Python · React 
