@@ -1,5 +1,6 @@
 # About Me
 
+**Shaheer Tariq**  
 **Full Stack Developer** · Web · Mobile · DevOps · Python · React 
 
 Results-driven Computer Science graduate with 3+ years of hands-on experience across **web**, **mobile**, and **DevOps**. I build end-to-end products—from React/React Native UIs and FastAPI/Django backends to Redis queues, Playwright scrapers, and Kubernetes deployments.
@@ -214,8 +215,6 @@ Freelance full-stack: Django REST Framework, FastAPI, Playwright, scalable SaaS 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/shaheer-tariq-836b4b266/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923096381844)
-[![Discord](https://img.shields.io/badge/Discord-shaheer__07707-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Slack](https://img.shields.io/badge/Slack-Shaheer_Tariq-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com)
 
 ---
 
