@@ -1,6 +1,6 @@
 # About Me
 
-**Full Stack Developer** · Web · Mobile · DevOps · Python · React · FindSocial
+**Full Stack Developer** · Web · Mobile · DevOps · Python · React 
 
 Results-driven Computer Science graduate with 3+ years of hands-on experience across **web**, **mobile**, and **DevOps**. I build end-to-end products—from React/React Native UIs and FastAPI/Django backends to Redis queues, Playwright scrapers, and Kubernetes deployments.
 
