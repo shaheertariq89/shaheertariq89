@@ -165,7 +165,7 @@ Freelance full-stack: Django REST Framework, FastAPI, Playwright, scalable SaaS 
 - **QFC Website Scraper** — Playwright, Scrapy, Pandas. Thousands of company records and license PDFs; CSV/datasets.  
   [qfc.qa](https://www.qfc.qa/en)
 
-- **Other:** thearzen.com, nayabcollection.pk, rawaitifoods.com
+- **Other:** nayabcollection.pk, rawaitifoods.com, dotsincsolutions.com
 
 - **Video-Fetch (MP3/MP4 downloader)** — Flask, yt-dlp, FFmpeg. Multi-platform download, quality options, progress, email feedback, optional AI assistant (DeepSeek/OpenAI/Hugging Face). SMTP, rate limiting, env-based config.
 
