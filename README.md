@@ -225,7 +225,7 @@ Freelance full-stack: Django REST Framework, FastAPI, Playwright, scalable SaaS 
 |----------------|------|
 | FindSocial     | [findsocial.io](https://www.findsocial.io/) |
 | Lockedin.ai    | [auto-apply.lockedinai.com](https://auto-apply.lockedinai.com/) |
-| Stack8s Demo   | [demo.stack8s.com](https://demo.stack8s.com/) |
+| Stack8s Demo   | [dev.stack8s.com](https://dev.stack8s.com/) |
 | Clinifyz       | [clinifyz.com](https://clinifyz.com/) |
 | Flaship.pk     | [flaship.pk](https://flaship.pk/) |
 | Waresinc       | [waresinc.site](https://waresinc.site/) |
