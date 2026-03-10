@@ -137,7 +137,6 @@ Hi! I am a Results-driven Computer Science graduate with 3+ years of hands-on ex
     />
 </p>
 
-
 ---
 
 ## Experience
