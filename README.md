@@ -1,10 +1,60 @@
-# About Me
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-## Shaheer Tariq
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Shaheer+Tariq;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-**Full Stack Developer** · Web · Mobile · DevOps · Python · React 
+<a href="https://discord.gg/5dZPVytKnn">
+    <h3 align="center">
+        <img src="https://i.imgur.com/5XG3bRq.png" width="280"><br>
+        Full Stack Developer · Web · Mobile · DevOps 
+    </h3>
+</a>
+Hi! I am a Results-driven Computer Science graduate with 3+ years of hands-on experience across web and mobile app developement and DevOps. I build end-to-end products—from React/React Native UIs and FastAPI/Django backends to Redis queues, Playwright scrapers, and Kubernetes deployments.
 
-Results-driven Computer Science graduate with 3+ years of hands-on experience across **web**, **mobile**, and **DevOps**. I build end-to-end products—from React/React Native UIs and FastAPI/Django backends to Redis queues, Playwright scrapers, and Kubernetes deployments.
+
+### 📈 GitHub Activity Graph:
+
+<p align="center">
+  <a href="https://github.com/shaheertariq89">
+    <img align="center"
+         height="150em"
+         src="https://streak-stats.demolab.com?user=shaheertariq89&theme=aura&hide_border=false&border_radius=10" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/shaheertariq89">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shaheertariq89&theme=aura"
+    />
+  <a href="https://github.com/shaheertariq89">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shaheertariq89&theme=aura"
+    />
+</p>
+
+<p align="center">
+  <a href="https://github.com/shaheertariq89">
+    <img align="center"
+         height="150em"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arazaminai&theme=aura"
+    />
+  <a href="https://github.com/shaheertariq89">
+    <img align="center"
+         height="150em"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arazaminai&theme=aura&utcOffset=2"
+    />
+</p>
+
+<p align="center">
+ <a href="https://github.com/shaheertariq89">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaheertariq89&theme=aura"
+    />
+</p>
+
 
 ---
 
@@ -236,3 +286,6 @@ Freelance full-stack: Django REST Framework, FastAPI, Playwright, scalable SaaS 
 ---
 
 *BS Computer Science · FAST-NUCES · Open to collaboration on full stack, web, mobile, and DevOps projects.*
+
+<h2 align="center"> Thanks for visiting my profile. </h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
