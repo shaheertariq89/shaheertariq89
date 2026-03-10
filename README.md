@@ -120,12 +120,12 @@ Hi! I am a Results-driven Computer Science graduate with 3+ years of hands-on ex
   <a href="https://github.com/shaheertariq89">
     <img align="center"
          height="150em"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arazaminai&theme=aura"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shaheertariq89&theme=aura"
     />
   <a href="https://github.com/shaheertariq89">
     <img align="center"
          height="150em"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arazaminai&theme=aura&utcOffset=2"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shaheertariq89&theme=aura&utcOffset=2"
     />
 </p>
 
