@@ -4,7 +4,7 @@
 
 <a href="https://discord.gg/5dZPVytKnn">
     <h3 align="center">
-     <h3>
+      <img src="https://i.imgur.com/5XG3bRq.png" width="280"><br>
         Full Stack Developer · Web · Mobile · DevOps 
     </h3>
 </a>
