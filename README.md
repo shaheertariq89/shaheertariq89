@@ -10,52 +10,6 @@
 </a>
 Hi! I am a Results-driven Computer Science graduate with 3+ years of hands-on experience across web and mobile app developement and DevOps. I build end-to-end products—from React/React Native UIs and FastAPI/Django backends to Redis queues, Playwright scrapers, and Kubernetes deployments.
 
-
-### 📈 GitHub Activity Graph:
-
-<p align="center">
-  <a href="https://github.com/shaheertariq89">
-    <img align="center"
-         height="150em"
-         src="https://streak-stats.demolab.com?user=shaheertariq89&theme=aura&hide_border=false&border_radius=10" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/shaheertariq89">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shaheertariq89&theme=aura"
-    />
-  <a href="https://github.com/shaheertariq89">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shaheertariq89&theme=aura"
-    />
-</p>
-
-<p align="center">
-  <a href="https://github.com/shaheertariq89">
-    <img align="center"
-         height="150em"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arazaminai&theme=aura"
-    />
-  <a href="https://github.com/shaheertariq89">
-    <img align="center"
-         height="150em"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arazaminai&theme=aura&utcOffset=2"
-    />
-</p>
-
-<p align="center">
- <a href="https://github.com/shaheertariq89">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaheertariq89&theme=aura"
-    />
-</p>
-
-
 ---
 
 ## Tech Stack
@@ -141,7 +95,48 @@ Hi! I am a Results-driven Computer Science graduate with 3+ years of hands-on ex
 
 ## GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=shaheertariq89&theme=default&hide_border=false)
+<p align="center">
+  <a href="https://github.com/shaheertariq89">
+    <img align="center"
+         height="150em"
+         src="https://streak-stats.demolab.com?user=shaheertariq89&theme=aura&hide_border=false&border_radius=10" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/shaheertariq89">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shaheertariq89&theme=aura"
+    />
+  <a href="https://github.com/shaheertariq89">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shaheertariq89&theme=aura"
+    />
+</p>
+
+<p align="center">
+  <a href="https://github.com/shaheertariq89">
+    <img align="center"
+         height="150em"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arazaminai&theme=aura"
+    />
+  <a href="https://github.com/shaheertariq89">
+    <img align="center"
+         height="150em"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arazaminai&theme=aura&utcOffset=2"
+    />
+</p>
+
+<p align="center">
+ <a href="https://github.com/shaheertariq89">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaheertariq89&theme=aura"
+    />
+</p>
+
 
 ---
 
