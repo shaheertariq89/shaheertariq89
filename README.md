@@ -187,7 +187,7 @@ Designing and implementing scalable data scraping web tools and web applications
 ---
 
 ### Full Stack Web & Mobile Development · *04/2023 – Current*  
-**Self Employed (Remote)
+**Self Employed (Remote)**
 
 Freelance full-stack: Django REST Framework, FastAPI, Playwright, scalable SaaS across healthcare, inventory, finance, and automation.
 
