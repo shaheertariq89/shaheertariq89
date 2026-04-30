@@ -252,7 +252,7 @@ Freelance full-stack: Django REST Framework, FastAPI, Playwright, scalable SaaS 
 
 - 📧 **Email:** [shaheertariq1236@gmail.com](mailto:shaheertariq1236@gmail.com)
 - 💼 **LinkedIn:** [Shaheer Tariq](https://pk.linkedin.com/in/shaheer-tariq-836b4b266/)
-- 🌐 **Portfolio:** [shaheertariq.space](https://shaheertariq.space/)
+- 🌐 **Portfolio:** [My Portfolio](https://shaheertariq.vercel.app/)
 - 📍 **Location:** Faisalabad, Punjab
 - 📞 **Phone:** +92 309 6381844
 
