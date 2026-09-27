@@ -2,284 +2,211 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Shaheer+Tariq;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<a href="https://discord.gg/5dZPVytKnn">
-    <h3 align="center">
-      <img src="https://i.imgur.com/5XG3bRq.png" width="280"><br>
-        Full Stack Developer · Web · Mobile · DevOps 
-    </h3>
-</a>
-Hi! I am a Results-driven Computer Science graduate with 3+ years of hands-on experience across web and mobile app developement and DevOps. I build end-to-end products—from React/React Native UIs and FastAPI/Django backends to Redis queues, Playwright scrapers, and Kubernetes deployments.
+<div align="center">
+
+
+**Founder & CEO, Dotsnc Technologies · CEO & Director, Logistaan Technologies · Full Stack Engineer**
+
+Full Stack · AI Platforms · Cloud & DevOps · Pakistan 🇵🇰 & UAE 🇦🇪
+
+[![Email](https://img.shields.io/badge/Email-shaheertariq1236%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shaheertariq1236@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaheer_Tariq-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/shaheer-tariq-836b4b266/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shaheertariq.vercel.app-000000?style=flat&logo=vercel&logoColor=white)](https://shaheertariq.vercel.app/)
+[![Dotsnc](https://img.shields.io/badge/Company-dotsnc.com-00BFBF?style=flat)](https://dotsnc.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+92_309_6381844-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/923096381844)
+
+</div>
 
 ---
 
-## Tech Stack
+## Professional Summary
 
-**Frontend & Web**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![AJAX](https://img.shields.io/badge/AJAX-008FC7?style=flat)
+Software engineer and founder with **3+ years of experience** taking products from ideation and architecture through development to production deployment. I founded **Dotsnc Technologies**, a software company registered in Pakistan and the UAE, and lead **Logistaan Technologies**, an e-commerce operating system for online sellers. I also work as a **Full Stack Developer at Semmel Health**.
 
-**Mobile**  
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
-![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=googleplay&logoColor=white)
-
-**Backend**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-
-**Scraping & Automation**  
-![Playwright](https://img.shields.io/badge/Playwright_(Chromium)-2EAD33?style=flat&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4BAF4B?style=flat)
-![Scrapy](https://img.shields.io/badge/Scrapy-639B00?style=flat)
-
-**Browser automation & accessibility**  
-![Xvfb](https://img.shields.io/badge/Xvfb_(virtual_display)-003366?style=flat)
-![x11vnc](https://img.shields.io/badge/x11vnc-556600?style=flat)
-![websockify](https://img.shields.io/badge/websockify-333333?style=flat)
-![noVNC](https://img.shields.io/badge/noVNC-00AA00?style=flat)
-![axe--core](https://img.shields.io/badge/axe--core-7C2D12?style=flat)
-
-**Data & DevOps**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector_DB-FF6B00?style=flat)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![nginx](https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white)
-
-**API & dev tools**  
-![REST API](https://img.shields.io/badge/REST_API-00A4EF?style=flat)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat)
-![Webhooks](https://img.shields.io/badge/Webhooks-6C5CE7?style=flat)
-
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat&logo=gunicorn&logoColor=white)
-![Kong](https://img.shields.io/badge/Kong-003459?style=flat&logo=kong&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazons3&logoColor=white)
-![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=flat&logo=rancher&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
-![Amazon SQS](https://img.shields.io/badge/Amazon_SQS-FF4F8B?style=flat&logo=amazonsqs&logoColor=white)
-![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+My experience covers AI-powered generation pipelines, multi-platform SaaS, ERPs, e-commerce and logistics systems, and browser-based medical-imaging analysis. I build across **React, Angular, and Next.js** front ends; **Python (FastAPI/Django), Node.js, Java, and .NET** backends; and **Kubernetes, GCP, and AWS** infrastructure with full CI/CD and observability.
 
 ---
 
-## GitHub Stats
+## Core Competencies
 
-<p align="center">
-  <a href="https://github.com/shaheertariq89">
-    <img align="center"
-         height="150em"
-         src="https://streak-stats.demolab.com?user=shaheertariq89&theme=aura&hide_border=false&border_radius=10" />
-  </a>
-</p>
+| Area | Skills |
+|---|---|
+| **Languages** | Python · TypeScript · JavaScript · Java · C# · SQL |
+| **Frontend** | React · Angular · Next.js · Vite · Tailwind CSS · Bootstrap · HTML5/CSS3 |
+| **Backend** | FastAPI · Django / DRF · Flask · Node.js · Express · Prisma · ASP.NET · Celery |
+| **Mobile & Extensions** | React Native · Expo · Chrome Extensions · Shopify Apps · WordPress Plugins |
+| **Databases** | PostgreSQL · MongoDB · MySQL · Redis · DynamoDB · Vector DBs |
+| **Cloud** | GCP (Cloud Run, GCS) · AWS (EC2, S3, Lambda, SQS) · nginx · Kong API Gateway |
+| **DevOps & IaC** | Docker · Kubernetes · Helm · Argo CD · Rancher · Terraform · GitHub Actions · self-hosted runners |
+| **Observability** | Prometheus · Grafana · Loki · OpenTelemetry |
+| **Integrations** | Stripe · HubSpot · Apollo.io · Meta / TikTok / Google Ads · OAuth 2.0 · WebSockets · Webhooks · SMTP |
+| **Automation & Data** | Playwright · Selenium · Scrapy · BeautifulSoup · Pandas · axe-core |
+| **Leadership** | Company founding & operations (PK & UAE) · product ownership · architecture · team leadership · Agile / Jira |
 
-<p align="center">
-  <a href="https://github.com/shaheertariq89">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shaheertariq89&theme=aura"
-    />
-  <a href="https://github.com/shaheertariq89">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shaheertariq89&theme=aura"
-    />
-</p>
-
-<p align="center">
-  <a href="https://github.com/shaheertariq89">
-    <img align="center"
-         height="150em"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shaheertariq89&theme=aura"
-    />
-  <a href="https://github.com/shaheertariq89">
-    <img align="center"
-         height="150em"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shaheertariq89&theme=aura&utcOffset=2"
-    />
-</p>
-
-<p align="center">
- <a href="https://github.com/shaheertariq89">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaheertariq89&theme=aura"
-    />
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat&logo=argo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white"/>
 </p>
 
 ---
 
-## Experience
+## Professional Experience
 
-### Backend Engineer · *11/2024 – Current*  
-**Eprecisio Technologies** – Austin, Texas (Hybrid)
+### Full Stack Developer — [Semmel Health](https://www.linkedin.com/company/semmel/)
+*09/2026 – Present*
 
-Designing and implementing scalable data scraping web tools and web applications.
-
-- **FindSocial** — Web scraping platform for social media with deep-search, advanced filtering, and refined results.  
-  Multi-purpose Redis queue for cross-platform searches; deep-search; scrapers with Selenium, BeautifulSoup, Playwright; CSV export and SMTP notifications; HTML email templates; mail filters/models; MongoDB schema management; Jira & Slack.  
-  [Production](https://www.findsocial.io/) · [Staging](https://scrapper-frontend.findsocial.io/)
-
-- **Lockedin.ai** — FastAPI backend. Scrapes jobs from multiple platforms and auto-applies via Playwright. Users upload resume; system extracts details, finds jobs by title, and auto-applies.  
-  [Production](https://auto-apply.lockedinai.com/)
-
-- **Stack8s.org** — Cloud platform for AI workloads: Kubernetes management across cloud providers, marketplace app deployment, vector databases, cluster/project/namespace orchestration.  
-  [Demo](https://demo.stack8s.com/)
-
-- **Dextra** — Platform for logistics, agriculture, and fruit & vegetable manufacturing for producer companies in Saudi Arabia.  
-  [Staging](http://195.179.231.39:5674/)
-
-- **Calibras** — Kong API Gateway for production API: API key auth, rate limiting, routing; Kong + PostgreSQL; nginx reverse proxy for SSL.  
-  [Production](https://dev.elector.calibras.dk/)
+- Develop new product modules and backend microservices for the healthcare platform.
+- Own InfraOps and DevOps, covering infrastructure, CI/CD pipelines, containerized deployments, and production operations.
 
 ---
 
-### Sr. Python Django Developer · *02/2024 – 07/2025*  
-**Flaship Technologies** – Faisalabad, Punjab
+### Founder & CEO — [Dotsnc Technologies](https://dotsnc.com)
+*10/2023 – Present · Pakistan & UAE*
 
-- **Flaship.pk** — Courier aggregator: Python, Django, PostgreSQL. Clients book parcels across Postex, Trax, Leopard, M&P, Daewoo, Daak. Dashboards for payment tracking and financial transparency.  
-  [flaship.pk](https://flaship.pk/)
+Founded and run a software company, registered in Pakistan and the UAE, that delivers custom platforms, SaaS, ERPs, and DevOps services to regional and international clients. I lead client acquisition, solution architecture, delivery, and deployment.
 
-- **FPC Mobile Application** — React Native frontend, Django backend. Marketplace connecting buyers and sellers with third-party mediation, secure orders, claim process, JazzCash wallet integration.  
-  Fast parcel delivery and buyer protection.
-
----
-
-### Software Engineer · *08/2023 – 02/2024*  
-**TTI Testing Laboratories** – Lahore, Punjab
-
-- **Guest Management System** — ASP.NET. Guest/visitor registration, check-in/check-out, auth & authorization.
-- **Temperature & Humidity Record Management** — ASP.NET. ISO compliance, monitoring, PDF reports.
-- **Component Breakdown Tool** — ASP.NET MVC, SQL. Component breakdown records, data entry, tracking.
-- **KIK Automation Software** — Python, Flask, HTML/CSS, SQL. Automated testing reports, image collection, auto collages, component readings, QR code generation, Word/PDF reports.
-- **ROGP (Returnable Inward Outward Gate Pass)** — Python, Flask. Tracking outgoing assets and approval workflow.
-
----
-
-### Full Stack Web & Mobile Development · *04/2023 – Current*  
-**Self Employed (Remote)**
-
-Freelance full-stack: Django REST Framework, FastAPI, Playwright, scalable SaaS across healthcare, inventory, finance, and automation.
-
-- **clinifyz.com** — Multi-tenant clinic SaaS: patients, appointments, payments, pharmacy, staff. Django REST, PostgreSQL, LLM-based AI. Subscription management, analytics, pharmacy module, unified ledger, smart scheduling, treatment plans, digital records, payment workflow.  
-  [clinifyz.com](https://clinifyz.com/)
-
-- **Waresinc.site** — Cloud inventory management for SMBs: products, sales, analytics, real-time insights.  
-  [waresinc.site](https://waresinc.site/)
-
-- **shopibiz.cloud** — Inventory & sales SaaS: product/sales management, barcode, analytics, roles (Admin, Manager, Salesperson, Accountant), subscription plans.  
-  [shopibiz.cloud](https://shopibiz.cloud/)
-
-- **healixify.site** — Pharmacy management: medicine inventory, barcode, prescriptions, analytics, multi-user roles, payments. Django REST.  
-  [healixify.site](https://healixify.site/)
-
-- **arfabrics.site** — Inventory & accounting: stock/barcode, vouchers, cashbook, ledger, customer/party management, invoices, role-based access.  
-  [arfabrics.site](https://arfabrics.site/)
-
-- **QFC Website Scraper** — Playwright, Scrapy, Pandas. Thousands of company records and license PDFs; CSV/datasets.  
-  [qfc.qa](https://www.qfc.qa/en)
-
-- **Other:** nayabcollection.pk, rawaitifoods.com, dotsincsolutions.com
-
-- **Video-Fetch (MP3/MP4 downloader)** — Flask, yt-dlp, FFmpeg. Multi-platform download, quality options, progress, email feedback, optional AI assistant (DeepSeek/OpenAI/Hugging Face). SMTP, rate limiting, env-based config.
-
-- **Gameapp (Mobile)** — React Native, Expo. Multi-game app (Snake, Flappy Bird, Match 3, Dino Runner). Dark/light theme, background music, sound effects, in-app coins, AsyncStorage, centralized audio service.
-
-- **SA-CHECKER** — AI-assisted accessibility review for Articulate Storyline. Upload courses; Playwright + axe-core + custom WCAG rules; per-slide issues; noVNC manual review; Django, PostgreSQL, Redis, Celery; Xvfb/VNC on Linux.
-
-- **Agency Profit Pro** — Full-stack SaaS: ad spend, leads, bookings. React, TypeScript, Vite, Tailwind, Shadcn; Node.js, Express, Passport, PostgreSQL, Drizzle; GoHighLevel, Meta Ads, Google Ads (OAuth), Stripe, SendGrid; AI chat + PDF knowledge base.
-
-- **Auclux.com (DevOps)** — GitHub Actions + Docker pipeline: SSH/rsync deploy, Docker build, Sequelize migrations, PostgreSQL, Certbot SSL (api.auclux.com), Apache2 reverse proxy, health checks.
+- **QAF: Quality Assessment Framework** for [Quantisight](https://quantisight.io), Dubai. Built a browser-based platform for evaluating image quality in **photon-counting detector (PCD) and multi-energy CT**. Users upload a phantom study, draw regions of interest, and get quantitative results with no installation or code.
+  - Analyses **each energy bin separately**, measuring uniformity, artefacts, noise, and resolution per bin.
+  - Provides spectral and material analysis (material identification and quantification, electron density, effective atomic number) that only multi-energy CT makes possible.
+  - Judges results against acceptance criteria, exports them, and stores them permanently against a specific scanner. [dev-qaf.quantisight.io](https://dev-qaf.quantisight.io)
+- **Quantisight.io**: designed and built the corporate website for a Dubai-based medical-imaging company.
+- **GIMS: Inventory & Trading Management**: built a trading platform for wholesalers, distributors, and multi-warehouse businesses. It covers purchase orders and receipts, sales and billing with automatic invoicing, multi-warehouse stock with audit trails, supplier/buyer ledgers, operating expenses, P&L and balance-sheet reporting with PDF export, and a role-based merchant portal. [inventory.logistaan.com](https://inventory.logistaan.com)
+- **ERP suite**: delivered an **HR & Company Management ERP** and a **Restaurant Management ERP**.
+- **Clinifyz**: built a multi-tenant clinic SaaS covering patients, appointments, pharmacy, a unified ledger, smart scheduling, treatment plans, and subscriptions, with LLM-based assistance (Django REST, PostgreSQL). [clinifyz.com](https://clinifyz.com/)
+- **Shopibiz**: built an inventory and sales SaaS with barcodes, analytics, role-based access, and subscription plans. [shopibiz.logistaan.com](https://shopibiz.logistaan.com)
+- **Healixify**: built a pharmacy management system covering medicine inventory, prescriptions, barcodes, analytics, and payments. [healixify.logistaan.com](https://healixify.logistaan.com)
+- **Arfabrics**: built an inventory and accounting system with vouchers, cashbook, ledgers, and invoicing. [arfabrics.site](https://arfabrics.site/)
+- **SA-CHECKER**: built AI-assisted WCAG accessibility auditing for Articulate Storyline courses using Playwright, axe-core, and noVNC manual review (Django, Celery, Redis).
+- **Agency Profit Pro**: built a SaaS for ad-spend, lead, and booking analytics that integrates GoHighLevel, Meta and Google Ads, Stripe, SendGrid, and an AI chat with a PDF knowledge base.
+- **DevOps and automation engagements**: built a CI/CD and SSL-terminated deployment pipeline for Auclux.com, and a large-scale scraper for the QFC company registry.
 
 ---
 
-### Junior Business Developer · *06/2023 – 08/2023*  
-**Mavericks United** – Lahore, Punjab
+### CEO & Director — [Logistaan Technologies](https://logistaan.com)
+*Present*
+
+Lead product and engineering for **Logistaan**, an all-in-one **e-commerce operating system** for online sellers.
+
+- Architected and built an integrated platform that covers the full seller workflow:
+  - **Courier aggregator** for multi-courier booking and tracking.
+  - **Meta, TikTok, and Google Ads management**.
+  - **Digital wallet**, **stock & inventory**, and **order confirmation**.
+- Built a **HubSpot-style CRM and campaign engine** with email and SMS marketing.
+- Built **Slack-style team collaboration** with chat, video calls, and screen sharing.
+- Designed **franchise and business-consultancy models** with granular **access control and role management**.
+- Shipped across multiple channels: a **[Shopify App](https://apps.shopify.com/logistaan)**, a **WordPress/WooCommerce plugin**, a **mobile app**, and a **Google Chrome universal order-picker extension**.
 
 ---
 
-## I'm Learning
+### Sr. Software Engineer — Eprecisio Technologies
+*11/2024 – 09/2026 · Austin, Texas (Hybrid)*
 
-- Distributed systems & high-throughput queues
-- Kubernetes & cloud-native deployment
-- Mobile UX & cross-platform patterns
+Led end-to-end ownership of multiple client products, from feature ideation through architecture, development, and production deployment across web and AI-powered platforms.
 
----
+**[Beolivia.ai](https://dev.beolivia.ai)**: AI-powered custom ring design platform
+- Designed and built the full pipeline that turns a user's story into a finished ring: AI sketch, then 2D render, then 3D model, then purchase.
+- Built the multi-stage AI generation pipeline for sketch, render, and 3D mesh generation.
+- Architected the full stack: React/Vite/TypeScript, Express/Prisma and FastAPI backends, PostgreSQL, Redis, and GCS on **GCP Cloud Run**.
+- Built the commerce flow with Stripe embedded checkout, magic-link and Google OAuth accounts, design history, and session resume.
+- Set up CI/CD, Docker, and a self-hosted GCP runner for automated builds and deployments, plus an admin dashboard for pricing, orders, and assets.
 
-## Ask Me About
+**[FindSocial](https://www.findsocial.io/)**: multi-platform creator discovery and outreach platform
+- Led development of an **82-feature platform** for creator search, analytics, lead management, and outreach across **6 social platforms**.
+- Built real-time WebSocket search with live-streamed results and platform-specific FastAPI scraper microservices.
+- Architected a multi-database MongoDB design with per-user data isolation.
+- Integrated Apollo.io and HubSpot (OAuth, encrypted key storage, bi-directional sync) and Stripe **4-tier subscription billing**.
+- Built Instagram/TikTok/SoundCloud messaging and bulk email campaigns with open/click tracking.
+- Delivered **120+ API endpoints** and a Redis Pub/Sub notification system with fan-out for multi-pod deployments.
 
-- **Web:** React · Next.js · Node.js · Express.js · Django · Django REST · FastAPI · Flask · REST APIs · HTML/CSS · Bootstrap · jQuery · AJAX
-- **Mobile:** React Native · Expo · Android · cross-platform apps · payment gateways (e.g. JazzCash) · Google Play Console
-- **Backend & Scraping:** Playwright · Selenium · BeautifulSoup · Scrapy · Redis · Celery · MongoDB · PostgreSQL · MySQL · Pandas
-- **DevOps:** Docker · Kubernetes · AWS · nginx · Gunicorn · Kong · GitHub Actions · VPS · containerization · deployment
-- **SaaS & product:** Subscriptions · CRM · sales management · financial analysis · custom software · LLM/AI integration
-- **APIs & integration:** Swagger · Postman · WebSocket · webhooks · SMTP · email templates
-- **Process:** Agile · project management · team leadership · API development · debugging
-
----
-
-## How to Reach Me
-
-- 📧 **Email:** [shaheertariq1236@gmail.com](mailto:shaheertariq1236@gmail.com)
-- 💼 **LinkedIn:** [Shaheer Tariq](https://pk.linkedin.com/in/shaheer-tariq-836b4b266/)
-- 🌐 **Portfolio:** [My Portfolio](https://shaheertariq.vercel.app/)
-- 📍 **Location:** Faisalabad, Punjab
-- 📞 **Phone:** +92 309 6381844
-
-**Connect with me:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/shaheer-tariq-836b4b266/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923096381844)
+**Additional projects**
+- **[Lockedin.ai](https://auto-apply.lockedinai.com/)**: multi-platform job scraping with Playwright-driven auto-apply from parsed resumes (FastAPI).
+- **[Stack8s](https://demo.stack8s.com/)**: multi-cloud Kubernetes management platform for AI workloads, marketplace deployments, and vector databases.
+- **Calibras**: production Kong API Gateway with API-key auth, rate limiting, routing, and an nginx SSL reverse proxy.
+- **Dextra**: logistics and agri-manufacturing platform for producer companies in Saudi Arabia.
 
 ---
 
-## Links
+### Sr. Python Django Developer — Flaship Technologies
+*02/2024 – 07/2025 · Faisalabad, Pakistan*
 
-| Project        | Link |
-|----------------|------|
-| FindSocial     | [findsocial.io](https://www.findsocial.io/) |
-| Lockedin.ai    | [auto-apply.lockedinai.com](https://auto-apply.lockedinai.com/) |
-| Stack8s Demo   | [dev.stack8s.com](https://dev.stack8s.com/) |
-| Clinifyz       | [clinifyz.com](https://clinifyz.com/) |
-| Flaship.pk     | [flaship.pk](https://flaship.pk/) |
-| Waresinc       | [waresinc.site](https://waresinc.site/) |
-| Shopibiz       | [shopibiz.cloud](https://shopibiz.cloud/) |
-| Healixify      | [healixify.site](https://healixify.site/) |
-| Arfabrics      | [arfabrics.site](https://arfabrics.site/) |
+- Built **[Flaship.pk](https://flaship.pk/)**, a courier aggregator integrating Postex, Trax, Leopard, M&P, Daewoo, and Daak, with payment-tracking and financial dashboards (Django, PostgreSQL).
+- Built the **FPC mobile marketplace** (React Native + Django) with third-party mediation, secure orders, a claims process, and JazzCash wallet integration.
 
 ---
 
-*BS Computer Science · FAST-NUCES · Open to collaboration on full stack, web, mobile, and DevOps projects.*
+### Software Engineer — TTI Testing Laboratories
+*08/2023 – 02/2024 · Lahore, Pakistan*
 
-<h2 align="center"> Thanks for visiting my profile. </h2>
+- Built ASP.NET / ASP.NET MVC systems for guest management, ISO-compliant temperature and humidity monitoring, and component-breakdown tracking.
+- Automated laboratory test reporting with Python/Flask, generating image collages, QR codes, and Word/PDF reports.
+- Built a returnable gate-pass system with an approval workflow for asset tracking.
+
+---
+
+### Junior Business Developer — Mavericks United
+*06/2023 – 08/2023 · Lahore, Pakistan*
+
+---
+
+## Selected Projects
+
+| Project | Description | Link |
+|---|---|---|
+| Logistaan | E-commerce operating system | [logistaan.com](https://logistaan.com) · [Shopify App](https://apps.shopify.com/logistaan) |
+| QAF | Multi-energy / PCD CT image-quality analysis | [dev-qaf.quantisight.io](https://dev-qaf.quantisight.io) |
+| Beolivia.ai | AI custom ring design, from story to 3D | [dev.beolivia.ai](https://dev.beolivia.ai) |
+| FindSocial | Creator discovery & outreach | [findsocial.io](https://www.findsocial.io/) |
+| GIMS | Inventory & trading management | [inventory.logistaan.com](https://inventory.logistaan.com) |
+| Clinifyz | Multi-tenant clinic SaaS | [clinifyz.com](https://clinifyz.com/) |
+| Shopibiz | Inventory & sales SaaS | [shopibiz.logistaan.com](https://shopibiz.logistaan.com) |
+| Healixify | Pharmacy management | [healixify.logistaan.com](https://healixify.logistaan.com) |
+| Quantisight | Corporate website (Dubai) | [quantisight.io](https://quantisight.io) |
+| Lockedin.ai | Automated job applications | [auto-apply.lockedinai.com](https://auto-apply.lockedinai.com/) |
+| Stack8s | Multi-cloud Kubernetes for AI | [demo.stack8s.com](https://demo.stack8s.com/) |
+| Flaship.pk | Courier aggregator | [flaship.pk](https://flaship.pk/) |
+
+---
+
+## Education
+
+**BS Computer Science**, FAST-NUCES (National University of Computer & Emerging Sciences)
+
+---
+
+<details>
+<summary><b>GitHub Activity</b></summary>
+<br>
+<p align="center">
+  <img height="150em" src="https://streak-stats.demolab.com?user=shaheertariq89&theme=aura&hide_border=false&border_radius=10" />
+</p>
+<p align="center">
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shaheertariq89&theme=aura" />
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shaheertariq89&theme=aura" />
+</p>
+</details>
+
+<div align="center">
+
+*Open to collaboration on full stack, AI, e-commerce, and cloud/DevOps projects.*
+
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
