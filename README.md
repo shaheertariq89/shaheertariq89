@@ -70,7 +70,7 @@ My experience covers AI-powered generation pipelines, multi-platform SaaS, ERPs,
 
 ## Professional Experience
 
-### Full Stack Developer — [Semmel Health](https://www.linkedin.com/company/semmel/)
+### Full Stack Software Engineer — [Semmel Health](https://www.linkedin.com/company/semmel/)
 *09/2026 – Present*
 
 - Develop new product modules and backend microservices for the healthcare platform.
