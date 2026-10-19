@@ -11,7 +11,7 @@ Full Stack · AI Platforms · Cloud & DevOps · Pakistan 🇵🇰 · UAE 🇦�
 
 [![Email](https://img.shields.io/badge/Email-shaheertariq1236%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shaheertariq1236@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaheer_Tariq-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/shaheer-tariq-836b4b266/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-shaheertariq.vercel.app-000000?style=flat&logo=vercel&logoColor=white)](https://shaheertariq.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shaheertariq.vercel.app-000000?style=flat&logo=vercel&logoColor=white)](https://shaheertariq.online/)
 [![Dotsnc](https://img.shields.io/badge/Company-dotsnc.com-00BFBF?style=flat)](https://dotsnc.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+92_309_6381844-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/923096381844)
 
