@@ -7,7 +7,7 @@
 
 **Founder & CEO, Dotsnc Technologies · CEO & Director, Logistaan Technologies · Full Stack Engineer**
 
-Full Stack · AI Platforms · Cloud & DevOps · Pakistan 🇵🇰 & UAE 🇦🇪
+Full Stack · AI Platforms · Cloud & DevOps · Pakistan 🇵🇰 · UAE 🇦🇪 · Malaysia 🇲🇾
 
 [![Email](https://img.shields.io/badge/Email-shaheertariq1236%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shaheertariq1236@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaheer_Tariq-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/shaheer-tariq-836b4b266/)
