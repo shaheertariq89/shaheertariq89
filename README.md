@@ -21,7 +21,7 @@ Full Stack · AI Platforms · Cloud & DevOps · Pakistan 🇵🇰 · UAE 🇦�
 
 ## Professional Summary
 
-Software engineer and founder with **3+ years of experience** taking products from ideation and architecture through development to production deployment. I founded **Dotsnc Technologies**, a software company registered in Pakistan and the UAE, and lead **Logistaan Technologies**, an e-commerce operating system for online sellers. I also work as a **Full Stack Developer at Semmel Health**.
+Software engineer and founder with **4+ years of experience** taking products from ideation and architecture through development to production deployment. I founded **Dotsnc Technologies**, a software company registered in Pakistan and the UAE, and lead **Logistaan Technologies**, an e-commerce operating system for online sellers. I also work as a **Full Stack Developer at Semmel Health**.
 
 My experience covers AI-powered generation pipelines, multi-platform SaaS, ERPs, e-commerce and logistics systems, and browser-based medical-imaging analysis. I build across **React, Angular, and Next.js** front ends; **Python (FastAPI/Django), Node.js, Java, and .NET** backends; and **Kubernetes, GCP, and AWS** infrastructure with full CI/CD and observability.
 
